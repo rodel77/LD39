@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 12941, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Keys:
+  - {fileID: 11400000, guid: 7ec7f8bcde91b1240973480662297b1b, type: 2}
+  - {fileID: 11400000, guid: 875693f8b72973d44ab735a97394c3aa, type: 2}
+  m_Vals:
+  - timeInFrames: 1
+    timeAreaShownRange: {x: -0.095064305, y: 10.542631}
+    showAudioWaveform: 1
+    m_Keys:
+    - {fileID: 114403963447171756, guid: 7ec7f8bcde91b1240973480662297b1b, type: 2}
+    m_Vals:
+    - collapsed: 0
+      showInlineCurves: 0
+  - timeInFrames: 1
+    timeAreaShownRange: {x: -0.06929714, y: 5.7239437}
+    showAudioWaveform: 1
+    m_Keys:
+    - {fileID: 114058993028844604, guid: 875693f8b72973d44ab735a97394c3aa, type: 2}
+    - {fileID: 114206334285153620, guid: 875693f8b72973d44ab735a97394c3aa, type: 2}
+    m_Vals:
+    - collapsed: 0
+      showInlineCurves: 1
+    - collapsed: 0
+      showInlineCurves: 0
